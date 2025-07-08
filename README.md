@@ -1,1 +1,1 @@
-Final Project for NEUR189B Artificial and Biological Vision, taught by Yuqing Zhu
+Final Project for NEUR189B Artificial and Biological Vision, taught by Yuqing Zhu. On testing emerging racial bias in facial emotion recognition models with demographically diverse and non-diverse datasets. 
